@@ -1,1 +1,1 @@
-# Super_Sales-store_analysis using Power-BI
+# Supersales-store_analysis using Power-BI
